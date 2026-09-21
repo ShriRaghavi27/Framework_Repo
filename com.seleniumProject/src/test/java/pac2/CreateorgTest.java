@@ -12,6 +12,10 @@ public class CreateorgTest {
 	public void modifyorgTest() {
 		System.out.println("Excute modifyorgTest ");
 	}
+	@Test
+	public void deleteorgTest() {
+		System.out.println("Excute deleteorgTest ");
+	}
 
 
 }
