@@ -16,7 +16,7 @@ public class ContactTest {
 		System.out.println(BROWSER);
 		System.out.println(USERNAME);
 		System.out.println(PASSWORD);
-		System.out.println("Excute CreatecontactTest ");
+		System.out.println("Excute CreatecontactTest");
 	}
 	@Test
 	public void modifycontactTest() {
